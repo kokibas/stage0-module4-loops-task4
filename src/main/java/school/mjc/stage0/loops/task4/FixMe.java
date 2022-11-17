@@ -8,8 +8,8 @@ public class FixMe {
             } else if (i == 7) {
                 System.out.println("last");
                 System.out.println("will I be printed?");
-
-            }break;
+                break;
+            }
         }
     }
 }
